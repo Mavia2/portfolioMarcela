@@ -1,0 +1,44 @@
+.destacado {
+    color: aqua;
+    font-size: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+.item-lista-activa {
+    background-color: red;
+}
+
+.beta {
+    color: #ffc107;
+    background-color: #20c997;
+}
+
+#destacado {
+    color: rgb(0, 204, 255)
+}
+
+p#aviso {
+    color: blue
+}
+
+p>span {
+    color: blue
+}
+
+#lateral {
+    width: 2000px;
+}
+
+#cabecera {
+    height: 60px;
+}
+
+div img {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 0.5em;
+}
