@@ -1,0 +1,47 @@
+[{
+        "nombre": "Marcela",
+        "apellido": "Viana",
+        "edad": 43,
+        "precioAsiento": 200.24,
+        "pagado": true,
+        "Asiento": {
+            "numero": 13,
+            "letra": "F",
+            "cargador": false
+        },
+        "historial": [{
+                "salida": "Nueva York",
+                "destino": "Chicago",
+                "fecha": "10.10.2020"
+            },
+            {
+                "salida": "Madrid",
+                "destino": "Brcelona",
+                "fecha": "09.09.2020"
+            }
+        ]
+    },
+    {
+        "nombre": "Andres",
+        "apellido": "Pasquinelli",
+        "edad": 44,
+        "precioAsiento": 230.20,
+        "pagado": true,
+        "Asiento": {
+            "numero": 12,
+            "letra": "F",
+            "cargador": false
+        },
+        "historial": [{
+                "salida": "Nueva York",
+                "destino": "Chicago",
+                "fecha": "10.10.2020"
+            },
+            {
+                "salida": "Madrid",
+                "destino": "Brcelona",
+                "fecha": "09.09.2020"
+            }
+        ]
+    }
+]
